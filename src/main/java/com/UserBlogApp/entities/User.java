@@ -5,7 +5,6 @@ import java.util.ArrayList;
 
 import java.util.List;
 
-import com.spring.boot.BlogApp.entities.Post;
 
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Entity;
